@@ -46,6 +46,7 @@ const Usestate1 = () => {
                     </div>
                     <div className="poinsts">...</div>
                   </div>
+                  
                   <div id="image">
                     <img src={curElem.PostImage}></img>
                   </div>
