@@ -1,0 +1,29 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "Bengaluru",
+            "likes": 64,
+            "description": "Story and Screen Play of the Movie is very heart touching",
+            "PostImage": "https://filmfare.wwmindia.com/content/2021/jan/sushantsinghrajput31611230043.jpg",
+            "Date": "11-06-2016"
+            
+        },
+        {
+            "name": "Neeraj",
+            "location": "Pune",
+            "likes": 30,
+            "description": "Actions are also really really awesome",
+            "PostImage": "https://images.moneycontrol.com/static-mcnews/2021/10/Virat-Kohli-illustration-770x433.jpg?impolicy=website&width=770&height=431",
+            "Date": "10-06-2016"
+        },
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "Enjoyed this movie very much",
+            "PostImage": "https://www.looper.com/img/gallery/why-the-professor-from-money-heist-looks-so-familiar/intro-1587390568.jpg",
+            "Date": "10-06-2016"
+        }
+    ]
+}

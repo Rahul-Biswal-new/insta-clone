@@ -1,0 +1,116 @@
+.container{
+  width: 60%;
+  margin: 30px auto;
+  border: 1px solid slategrey;
+  
+
+}
+
+.nav{
+
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  border-bottom: 1px gray solid;
+  
+  align-items: center;
+
+
+}
+.nav .logo i{
+  font-size: 40px;
+  margin-left: 10px;
+}
+.nav .logo span{
+  color: forestgreen;
+  font-size: 40px;
+  margin-left: 10px;
+
+}
+.nav .camera{
+  margin-right: 100px;
+  font-size: 10px;
+}
+.camera i{
+  font-size: 50px;
+}
+.instacard{
+  width: 60%;
+  margin: 30px auto;
+  border: gray 1px solid;
+  cursor: pointer;
+}
+.instacard:hover{
+  box-shadow: gray 0px 3px 3px 1px;
+}
+#header{
+  display: flex;
+  justify-content: space-between;
+}
+.details h1{
+  color: rgb(15, 15, 15);
+  font-size: 20px;
+  font-weight: 700;
+  margin: 10px;
+
+}
+.details h2{
+  color: grey;
+  font-size: 20px;
+  margin: 2px 10px;
+}
+.poinsts{
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+#image{
+  width: 100%;
+
+}
+#image img{
+  width: 100%;
+}
+#actions{
+  display: flex;
+  justify-content: space-between;
+}
+.like-comment{
+  display: flex;
+  margin-left: 10px;
+
+}
+.like-comment .like{
+  margin-left: 5px;
+
+}
+
+.like-comment .like .far{
+  font-size: 35px;
+  margin-top: 5px;
+  padding-left: 15px;
+  
+}
+.fa-heart{
+  color: red;
+}
+.date{
+  margin-right: 10px;
+  margin-top: 10px;
+  font-weight: 700;
+}
+#likes{
+  margin-left: 30px;
+}
+#likes h1{
+  font-size: 20px;
+}
+.likes{
+  margin-left: 30px;
+  font-size: 18px;
+}
+.likes span{
+  margin-right: 10px;
+  font-size: 18px;
+}
